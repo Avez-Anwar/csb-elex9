@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://avez-anwar.github.io/csb-elex9/static/css/main.831bc45d.chunk.css",
+    "main.js": "https://avez-anwar.github.io/csb-elex9/static/js/main.7a5cdb75.chunk.js",
+    "main.js.map": "https://avez-anwar.github.io/csb-elex9/static/js/main.7a5cdb75.chunk.js.map",
+    "runtime-main.js": "https://avez-anwar.github.io/csb-elex9/static/js/runtime-main.2b2089b9.js",
+    "runtime-main.js.map": "https://avez-anwar.github.io/csb-elex9/static/js/runtime-main.2b2089b9.js.map",
+    "static/js/2.64c21fdd.chunk.js": "https://avez-anwar.github.io/csb-elex9/static/js/2.64c21fdd.chunk.js",
+    "static/js/2.64c21fdd.chunk.js.map": "https://avez-anwar.github.io/csb-elex9/static/js/2.64c21fdd.chunk.js.map",
+    "index.html": "https://avez-anwar.github.io/csb-elex9/index.html",
+    "static/css/main.831bc45d.chunk.css.map": "https://avez-anwar.github.io/csb-elex9/static/css/main.831bc45d.chunk.css.map",
+    "static/js/2.64c21fdd.chunk.js.LICENSE.txt": "https://avez-anwar.github.io/csb-elex9/static/js/2.64c21fdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b2089b9.js",
+    "static/js/2.64c21fdd.chunk.js",
+    "static/css/main.831bc45d.chunk.css",
+    "static/js/main.7a5cdb75.chunk.js"
+  ]
+}
